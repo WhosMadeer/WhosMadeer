@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a second year Computer Engineering student at the University of Toronto. I am also the founding engineer for SnapShip Solutions - a tech based startup - for 3 years. In this position, I learned how to built full stack applications in React and Typescript. As a student, I developed strong skills in time management, organization and teamwork. I am always looking for a new challenge
+I'm a third year Computer Engineering Student at the University of Toronto. I was also the founding engineer for SnapShip Solutions where I built a full stack React and Express Application. As a student who was working full time, I had to develop skills in time management, organization, and leadership. I am always looking for a challenge and trying to grow as a person and as an engineer.
 
 
 ## 🌐 Socials:
